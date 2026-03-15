@@ -1,0 +1,19 @@
+{
+  "escrows": {
+    "ESC-NRJR98JD": {
+      "status": "payment_received",
+      "created": "2026-03-15 13:31",
+      "chat_id": 7757836483,
+      "history": [
+        {
+          "date": "2026-03-15 13:31",
+          "event": "Escrow created by customer"
+        },
+        {
+          "date": "2026-03-15 13:34",
+          "event": "Payment confirmed \u2014 funds held in escrow"
+        }
+      ]
+    }
+  }
+}
